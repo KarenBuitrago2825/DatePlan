@@ -1,1 +1,1 @@
-# DatePlan provided vy Dateboo App.
+# DatePlan provided by Dateboo App.
